@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>Hello World, and All Who Inhabit It</title>
+      <title>Hello World, And All Who Inhabit It</title>
       <link>https://adadoes.io/post/hello-world/</link>
       <pubDate>Sat, 24 Mar 2018 00:40:22 -0400</pubDate>
       
       <guid>https://adadoes.io/post/hello-world/</guid>
-      <description>Hello, world</description>
+      <description>Hello, World!
+I&amp;rsquo;m Ada, and this is my blog!
+A little about me: I&amp;rsquo;m a software developer, teacher, maker, tinkerer, open source evangelist, and lots of other things! I&amp;rsquo;m currently a senior coordinator at RCOS, the Rensselaer Center for Open Source, which is where I spend most of my time. I love teaching and learning from my peers, developing curriculum, giving talks, and maintaining my open source project, Yacs. I&amp;rsquo;m also involved with MOSSN, the Mozilla Open Source Student Network, where I work with and advise other campus clubs from around the country!</description>
     </item>
     
   </channel>
