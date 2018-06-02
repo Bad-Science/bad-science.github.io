@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Ada Does</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Mar 2018 00:40:22 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 22:19:04 -0400</lastBuildDate>
     
 	<atom:link href="https://adadoes.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scrum! For Your Life - Part 1: TODO</title>
+      <link>https://adadoes.io/post/scrum-for-your-life-1/</link>
+      <pubDate>Mon, 21 May 2018 22:19:04 -0400</pubDate>
+      
+      <guid>https://adadoes.io/post/scrum-for-your-life-1/</guid>
+      <description>Hello, World!
+Intro This is the start of a blog post series and life experiment I&amp;rsquo;ve been wanting to do for a while called &amp;lsquo;Scrum! For Your Life&amp;rsquo;. Put simply, the aim of this series is to explore whether agile methodolgies for software development can be effectively applied to personal organization, and life in general. In practice, this will include some software development tasks, but that is only because I spend way too much of my free time in front of my computer or thinking about software.</description>
+    </item>
     
     <item>
       <title>Hello World, And All Who Inhabit It</title>
