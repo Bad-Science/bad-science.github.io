@@ -6,19 +6,19 @@
     <description>Recent content in Posts on Ada Does</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 May 2018 22:19:04 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 19:48:22 -0400</lastBuildDate>
     
 	<atom:link href="https://adadoes.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Scrum! For Your Life - Part 1: TODO</title>
-      <link>https://adadoes.io/post/scrum-for-your-life-1/</link>
-      <pubDate>Mon, 21 May 2018 22:19:04 -0400</pubDate>
+      <title>Introducing BLOG.RCOS.IO</title>
+      <link>https://adadoes.io/post/new-rcos-blog/</link>
+      <pubDate>Fri, 01 Jun 2018 19:48:22 -0400</pubDate>
       
-      <guid>https://adadoes.io/post/scrum-for-your-life-1/</guid>
-      <description>Hello, World!
-Intro This is the start of a blog post series and life experiment I&amp;rsquo;ve been wanting to do for a while called &amp;lsquo;Scrum! For Your Life&amp;rsquo;. Put simply, the aim of this series is to explore whether agile methodolgies for software development can be effectively applied to personal organization, and life in general. In practice, this will include some software development tasks, but that is only because I spend way too much of my free time in front of my computer or thinking about software.</description>
+      <guid>https://adadoes.io/post/new-rcos-blog/</guid>
+      <description>Something I&amp;rsquo;m very exciting about happened recently! We finally have an official RCOS Blog! This is something we&amp;rsquo;ve wanted to get going for a long time, and finally got around to setting up, thanks to one of our awesome alumni. We have a lot of valuable knowledge and experience about doing and teaching Open Source, and I&amp;rsquo;m really happy that we now have an official channel to share it.
+It actually looks really clean too, and is cohesive with the rest of our documentation.</description>
     </item>
     
     <item>
